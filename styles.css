@@ -1,0 +1,15 @@
+body {
+    width: 98%;
+    min-height: 100vh;
+    color: black;
+
+    /*background: linear-gradient(#b7d9e0, #f6f8d5);*/
+    background: linear-gradient(#b4d6dc, #ffffff);
+
+    font-family: "Danfo", "Ubuntu Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1em;
+}
+
